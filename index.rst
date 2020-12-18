@@ -211,6 +211,24 @@ more open, more equal, more stable, more efficient, safer and freer.
    contracts/team_fund
 
 
+.. _policy:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Policy
+
+   policy/chatting_group
+.. policy/voken_shareholders_program
+   policy/voken_referral_program
+   policy/voken_community_alliance_program
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Contact us
+
+   contact_us
+
 
 ------
 
@@ -232,22 +250,16 @@ more open, more equal, more stable, more efficient, safer and freer.
    contributing/issue
 
 
-
-.. _policy:
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Policy
-
-   policy/chatting_group
-.. policy/voken_shareholders_program
-   policy/voken_referral_program
-   policy/voken_community_alliance_program
-
-
 ------
 
 .. _whitepaper:
+
+.. NOTE::
+
+   As the development work progressed, we optimized the technical architecture and many details.
+
+   The whitepaper is subject to re-editing soon.
+
 
 .. toctree::
    :maxdepth: 2
@@ -271,13 +283,6 @@ more open, more equal, more stable, more efficient, safer and freer.
 ..   whitepaper/roadmap
 ..   whitepaper/token_and_distribution_plan, after more
 ..   whitepaper/official_website, end
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Contact us
-
-   contact_us
 
 
 
