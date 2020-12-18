@@ -4,6 +4,11 @@
 Voken Proxy ClientBase
 ======================
 
+.. NOTE::
+
+   The content of this page is subject to re-editing.
+
+
 You can start a Proxy-ClientBase on your desktop or laptop PC now.
 It would provide a local Socks5 proxy for you, which is based on vnTUNNEL (encrypted).
 
