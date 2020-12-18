@@ -19,9 +19,8 @@ It is clear that the basic design of 1 Voken = 1,000 GB
 after ecological maturity will ensure that
 the price of Voken is not destined to deviate too much
 from the anchoring of its actual use value.
-We expect users with real demands to buy Vokens through exchanges
-or other channels and use it for appropriate network services.
-Of course, the value logic of Voken is so clear that proper investment is also a good choice.
+We expect users with real demands to buy Voken and use it for appropriate network services.
+Of course, the value logic of Voken is so clear that proper investment maybe also a good choice.
 
 
 Resource Anchored
