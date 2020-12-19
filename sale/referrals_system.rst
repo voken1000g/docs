@@ -44,7 +44,7 @@ Depth Reward (paid in ETH) Condition
 Tell your friends and help them understand the project and the opportunity.
 By sharing your referral address (VOKEN wallet address),
 your friend will get an additional 1% - 10% random bonus,
-and you will **earn 10% ETH** reward。
+and you will **earn 10% ETH** reward.
 
 - **Paid in ETH**,
   will transfer to your wallet address automatically and immediately,

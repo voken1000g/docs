@@ -18,10 +18,10 @@ using ETH as the only payment medium.
 .. _etherscan.io:
    https://etherscan.io/address/xxx
 
-And you can visit the `Early-Sale dApp`_
+And you can visit the `Early-Bird Sale dApp`_
 or easily just send ETH to the contract address.
 
-.. _Early-Sale dApp:
+.. _Early-Bird Sale dApp:
    https://voken1000g.github.io/early-bird
 
 Only 10.5 Million VokenTB for Early-Bird Sale (5% of the total supply)
@@ -73,7 +73,7 @@ Starting at **1 VokenTB = $0.5 USD**,
 until the price reaches **$0.7 USD**.
 
 The latest price depends on the percentage of sales progress,
-and you can always find it on the `Early-Sale dApp`_'s home page.
+and you can always find it on the `Early-Bird Sale dApp`_'s home page.
 The earlier the cheaper, the later the more expensive.
 
 
@@ -143,7 +143,7 @@ Depth Reward (paid in ETH) Remark
 Tell your friends and help them understand the project and the opportunity.
 By sharing your referral address (VOKEN wallet address),
 your friend will get an additional 1% - 10% random bonus,
-and you will **earn 10% ETH** reward。
+and you will **earn 10% ETH** reward.
 
 - **Paid in ETH**,
   will transfer to your wallet address automatically and immediately,

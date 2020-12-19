@@ -99,7 +99,6 @@ Benefits
 Distribution
 ------------
 
-
 Team Foundation: 10%
    Locked then released in tranches to demonstrate long-term commitment.
 
@@ -114,12 +113,10 @@ Advisors: 2%
 
    - 1/84 released monthly, from 2023-01-01 to 2029-12-31 (UTC+0)
 
-
 Angel Investors: 10%
    These tokens are vested over 7 years in demonstrating long-term commitment.
 
    - 1/60 released monthly, from 2023-01-01 to 2027-12-31 (UTC+0)
-
 
 Private: <10%
    Upgrading from the deprecated tokens (100 GB version).
@@ -135,7 +132,6 @@ Early-Bird: 5%
 
    - 10% released instantly
    - 90% released according the process of the Public-Sale
-
 
 Public-Sale: 40%
    - 10% released instantly
