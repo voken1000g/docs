@@ -121,7 +121,7 @@ Angel Investors: 10%
 Private: <10%
    Upgrading from the deprecated tokens (100 GB version).
 
-   Vested with the :ref:`sale_early_bird` and the :ref:`sale_public`.
+   Vested with the :ref:`sale_public`.
 
    - 10% released according to the process of public-sale
    - 90%/1080 released daily after Public-Sale finished
