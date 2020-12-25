@@ -7,6 +7,7 @@ The **MAIN CONTRACT** of VokenTB.
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
+- ENS Domain: **voken.eth**
 - Contract address is **0x1234567a022acaa848E7D6bC351d075dBfa76Dd4**
 - Deployed at `Tx Hash 0xe7de0bd78f9f575e029a44f5fff341...`_
 - Block height `11459677`_

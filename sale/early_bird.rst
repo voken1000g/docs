@@ -3,6 +3,10 @@
 Early-Bird Sale
 ===============
 
+- dApp: https://voken1000g.github.io/early-bird
+- GitHub: https://github.com/voken1000g/early-bird
+
+
 The VokenTB Early-Bird Sale process operates by a smart contract
 on Ethereum blockchain, with no other privileged access given to any party.
 

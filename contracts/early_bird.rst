@@ -5,6 +5,7 @@ VokenTB Early-Bird Sale Contract
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
+- ENS Domain: **early-bird.voken.eth**
 - Contract address is **0x1aaaa06374970dE748130EaccCdd2d0348E834c4**
 - Deployed at `Tx Hash 0xf5581fdbbc3f2662155a496dabddc5...`_
 - Block height `11459998`_

@@ -1,10 +1,12 @@
-.. _web_wallet_toolkit:
+.. _whitepaper_address:
 
-Voken HD Wallet Toolkit
-=======================
+Wallet address
+==============
 
-- Visit: https://voken1000g.github.io/web-ui-wallet
-- GitHub: https://github.com/voken1000g/web-ui-wallet
+A `Voken HD Wallet Toolkit`_ is already available.
+
+.. _Voken HD Wallet Toolkit:
+   https://voken1000g.github.io/web-ui-wallet/
 
 
 BIP39 mnemonic

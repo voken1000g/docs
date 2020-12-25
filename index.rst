@@ -94,19 +94,6 @@ more open, more equal, more stable, more efficient, safer and freer.
 .. letters/join_the_revolution
 
 
-.. _available-services:
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Available services
-
-   releases/susitna
-   releases/web_wallet_toolkit
-   releases/account_network
-   releases/proxy_container
-   releases/client_base
-
-
 .. _sale:
 
 .. toctree::
@@ -115,7 +102,21 @@ more open, more equal, more stable, more efficient, safer and freer.
 
    sale/early_bird
    sale/referrals_system
-   sale/public
+.. sale/public
+
+
+.. _released:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Released
+
+   releases/susitna
+   releases/web_wallet_toolkit
+   releases/account_network
+   releases/proxy_container
+   releases/client_base
+
 
 
 .. _guide:
@@ -138,7 +139,6 @@ more open, more equal, more stable, more efficient, safer and freer.
    guide/read_voken_sale_contract
    guide/batch_transfer
 
-
 .. _contracts:
 
 .. toctree::
@@ -158,10 +158,15 @@ more open, more equal, more stable, more efficient, safer and freer.
    voken/get_1001voken_contract
 
 
+.. _packages:
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Packages
 
-
-
+   npm/base32
+   npm/address
+   npm/hd_wallet
 
 
 .. _revision:
@@ -275,7 +280,6 @@ more open, more equal, more stable, more efficient, safer and freer.
    whitepaper/technical_path
    whitepaper/tokenomics
    whitepaper/more
-
    whitepaper/conclusion
    whitepaper/special_tips
 

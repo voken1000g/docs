@@ -5,6 +5,7 @@ Resale/Upgrade Contract
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
+- ENS Domain: **upgrade.voken.eth**
 - Contract address is **0x00000004b941F37c39550B05c90280d11a14C88e**
 - Deployed at `Tx Hash 0x8dde30966d862d78180621e2d5960e...`_
 - Block height `11460155`_
