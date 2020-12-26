@@ -5,7 +5,7 @@ npm: @voken/base32
 
 - npm: https://www.npmjs.com/package/@voken/base32
 - GitHub: https://github.com/voken1000g/npm-base32
-- Toolkit: https://github.com/voken1000g/toolkit/base32
+- Toolkit: https://voken1000g.github.io/toolkit/base32/
 
 
 Compute Voken flavored Base32 encoding/decoding, with auto checksum.

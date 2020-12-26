@@ -167,6 +167,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    npm/base32
    npm/address
    npm/hd_wallet
+   npm/avatar
 
 
 .. _revision:
