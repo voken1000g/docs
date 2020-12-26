@@ -29,7 +29,7 @@ API
 svgFromSeed(seed)
 _________________
 
-Returns a `xml`.
+Returns a `xml`
 
 
 svgDataUriFromSeed(seed)
