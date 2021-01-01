@@ -5,6 +5,7 @@ npm: @voken/avatar
 
 - npm: https://www.npmjs.com/package/@voken/avatar
 - GitHub: https://github.com/voken1000g/npm-avatar
+- Toolkit (Demo): https://voken1000g.github.io/toolkit/avatar/
 
 Create a `.svg` avatar from `seed`
 

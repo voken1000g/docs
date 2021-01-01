@@ -27,7 +27,7 @@ ETH USD Price (DAI)
 
 
 ETH USD Price (USDT)
--------------------
+--------------------
 
 - Contract address is **0xffff2e6fFC9A21C620253ef85Ea8f2CF67C3b496**
 - Deployed at `Tx Hash 0x022351fb9c792775235688b5ede9f9...`_

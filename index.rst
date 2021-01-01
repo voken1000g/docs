@@ -168,6 +168,11 @@ more open, more equal, more stable, more efficient, safer and freer.
    npm/address
    npm/hd_wallet
    npm/avatar
+   npm/sha
+   npm/private_key
+   npm/public_key
+   npm/aes256ctr
+   npm/edsv
 
 
 .. _revision:
