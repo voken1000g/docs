@@ -1,10 +1,11 @@
 .. _web_wallet_toolkit:
 
-Voken HD Wallet Toolkit
-=======================
+Voken HD Wallet Generator/Validator
+===================================
 
-- Visit: https://voken1000g.github.io/web-ui-wallet
-- GitHub: https://github.com/voken1000g/web-ui-wallet
+- HD Wallet Generator: https://voken1000g.github.io/toolkit/wallet-generator
+- HD Wallet Validator: https://voken1000g.github.io/toolkit/wallet-validator
+- GitHub: https://github.com/voken1000g/toolkit
 
 
 BIP39 mnemonic
@@ -88,3 +89,6 @@ Packages in NPM
 - :ref:`npm_hd_wallet`
 - :ref:`npm_address`
 - :ref:`npm_base32`
+- :ref:`npm_avatar`
+- :ref:`npm_private_key`
+- :ref:`npm_public_key`
