@@ -5,7 +5,7 @@ npm: @voken/hd-wallet
 
 - npm: https://www.npmjs.com/package/@voken/hd-wallet
 - GitHub: https://github.com/voken1000g/npm-hd-wallet
-- Toolkit (Demo): https://voken1000g.github.io/toolkit/wallet-generator/
+- Toolkit (Demo): https://voken1000g.github.io/toolkit/wallet/generator/
 
 Voken HD Wallet(s), derive from a seed.
 

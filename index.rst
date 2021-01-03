@@ -113,6 +113,7 @@ more open, more equal, more stable, more efficient, safer and freer.
 
    releases/susitna
    releases/web_wallet_toolkit
+   releases/messenger
    releases/account_network
    releases/proxy_container
    releases/client_base

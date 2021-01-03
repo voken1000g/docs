@@ -3,8 +3,8 @@
 Voken HD Wallet Generator/Validator
 ===================================
 
-- HD Wallet Generator: https://voken1000g.github.io/toolkit/wallet-generator
-- HD Wallet Validator: https://voken1000g.github.io/toolkit/wallet-validator
+- HD Wallet Generator: https://voken1000g.github.io/toolkit/wallet/generator
+- HD Address Validator: https://voken1000g.github.io/toolkit/wallet/validator
 - GitHub: https://github.com/voken1000g/toolkit
 
 
