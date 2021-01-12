@@ -29,12 +29,12 @@ choose one of the following to download:
 Java JDK 8 Update 271 (for Windows 64 bit)
    - `Download from FileHorse <https://www.filehorse.com/download-java-development-kit-64/55825/download/>`_
    - `Download from Oracle.com <https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html>`_
-   - Download from Github.com (coming soon)
+   - `Download from Github.com <https://github.com/voken100g/download/releases/download/public/jdk-8u271-windows-x64.exe>`_
 
 Java JDK 8 Update 271 (for Windows 32 bit)
    - `Download from FileHorse <https://www.filehorse.com/download-java-development-kit-32/download/>`_
    - `Download from Oracle.com <https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html>`_
-   - Download from Github.com (coming soon)
+   - `Download from Github.com <https://github.com/voken100g/download/releases/download/public/jdk-8u271-windows-i586.exe>`_
 
 
 Install
