@@ -116,15 +116,17 @@ more open, more equal, more stable, more efficient, safer and freer.
    releases/messenger
    releases/account_network
    releases/proxy_container
-   releases/client_base
+   releases/proxy_clientbase
 
 
 
 .. _guide:
 
-.. .toctree::
+.. toctree::
    :maxdepth: 1
    :caption: Guides
+
+   guide/proxy
 
 .. guide/imtoken
    guide/metamask
