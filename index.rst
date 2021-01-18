@@ -122,11 +122,11 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 .. _guide:
 
-.. toctree::
+.. .toctree::
    :maxdepth: 1
    :caption: Guides
 
-   guide/proxy
+.. guide/proxy
 
 .. guide/imtoken
    guide/metamask
