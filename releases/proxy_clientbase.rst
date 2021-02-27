@@ -13,9 +13,9 @@ It would provide a standard local Socks5/HTTP proxy for you, which is based on v
 Download
 --------
 
-VOKEN Proxy App for windows v0.9.28
-   - `Download Portable Edition from Github.com <https://github.com/voken1000g/proxy_clientbase/releases/download/v0.9.28/voken-proxy-0.9.28.7z>`_
-   - `Download Installer from Github.com <https://github.com/voken1000g/proxy_clientbase/releases/download/v0.9.28/voken-proxy-0.9.28.exe>`_
+VOKEN Proxy App for windows v0.11.4
+   - `Download Portable Edition from Github.com <https://github.com/voken1000g/proxy_clientbase/releases/download/v0.11.4/voken-proxy-0.11.4.7z>`_
+   - `Download Installer from Github.com <https://github.com/voken1000g/proxy_clientbase/releases/download/v0.11.4/voken-proxy-0.11.4.exe>`_
 
 If you do not have the Java JDK installed on your computer,
 choose one of the following to download:
@@ -37,7 +37,7 @@ Install
 -------
 
 1. Make sure you have the **Java JDK** installed
-2. Extract the **voken-proxy-0.9.28.7z** to a new folder, or run **voken-proxy-0.9.28.exe** to install
+2. Extract the **voken-proxy-0.11.4.7z** to a new folder, or run **voken-proxy-0.11.4.exe** to install
 
 
 Launch and initialize
